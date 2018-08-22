@@ -1,0 +1,19 @@
+Hello everyone, and welcome to the wonderful world of **R** code writing. I know that starting out with statistical software can be an exercise in patience, but I assure you that you are more than capable of figuring it out. The key is to *keep trying*.
+In this brief article, I will explain some of the basics of dealing with writing **R** code. I won’t be going into detail about the different commands you can use or packages you can install (those are very well covered in introductory **R** textbooks or online tutorials). Rather, I will focus on some of the critical skills you need to develop in order to become a confident **R** user. These include:
+* How to write code clearly and with a consistent style so others can understand what you are doing.
+* How to find and read package documentation and vignettes so you can teach yourself how to use any package you might need.
+* How to effectively use search engines to find the answers to your coding problems
+* Common coding mistakes to check for when your code won’t run
+* Good tutorials for teaching yourself the basics
+
+**Style Guide for Writing R Code**
+
+**Strategies for Finding Out How to Do Something New**
+
+**How to Figure Out How an R Command Works**
+
+**What are Vignettes and How to Find Them**
+
+**Common Mistakes and Trouble-Shooting Strategies**
+
+**Good Tutorials for Teaching Yourself**
