@@ -10,9 +10,9 @@ In this brief note, I will explain some of the basics of dealing with writing **
 
 ### Style Guide for Writing R Code
 
-Once you have been writing code for a while, you will start to notice that there is a big difference between code in terms of readability. Whether you are looking through your colleagues’ code for help or perusing replication files of other scholars work, it can be frustrating when things look like a jumbled mess. Such “spaghetti” code is a result of inconsistent coding style. Coding style refers to the conventions a person uses to write their code. These include variable name formats, commenting, maximum characters per line, use of spaces, placement of brackets, and other similar aspects.
+Once you have been writing code for a while, you will start to notice that there is a big difference between code in terms of readability. Whether you are looking through your colleagues’ code for help or perusing replication files of other scholars' work, it can be frustrating when things look like a jumbled mess. Such “spaghetti” code is a result of inconsistent coding style. Coding style refers to the conventions a person uses to write their code. These include variable name formats, commenting, maximum characters per line, use of spaces, placement of brackets, and other similar aspects.
 
-Using a consistent coding style is important so that others can quickly and clearly understand what your code is doing. This helps with replicability of studies, trouble-shooting problematic code when you are learning, and communicating new coding solutions. I highly encourage you to look through existing style guides and pick one to use consistently. There is no de facto R-code style for all applications, so feel free to select whatever you find most readable. 
+Using a consistent coding style is important so that others can quickly and clearly understand what your code is doing. This helps with replicability of studies, trouble-shooting problematic code when you are learning, and communicating new coding solutions. I highly encourage you to look through existing style guides and pick one to use consistently. There is no de facto **R**-code style for all applications, so feel free to select whatever you find most readable. 
 
 ###### A selection of style guides:
 
@@ -102,8 +102,10 @@ There are many other types of errors that **R** might throw you. When you find a
 
 There are a ton of resources out there for teaching yourself **R**, so many in fact that it can be a bit intimidating. Here are some resources to get you started on answering your R-related questions:
 
-* [R-Bloggers](https://www.r-bloggers.com/): An aggregated collection of R-related blog content. This is a great source of information on a variety of R-related topics.
+* [R-Bloggers](https://www.r-bloggers.com/): An aggregated collection of **R**-related blog content. This is a great source of information on a variety of **R**-related topics.
 * [Quick-R](https://www.statmethods.net/): A great **R** introduction site that covers the basics with clear examples and tutorials.
 * [Stack Overflow](https://stackoverflow.com/): An online developer community where folks can post questions. Make sure to search to see if your question has already been answered before posting.
-* [CRAN](https://cran.r-project.org/): A collection of all the code and documentation for R software. If you want documentation, this is where to find it.
+* [CRAN](https://cran.r-project.org/): A collection of all the code and documentation for **R** software. If you want documentation, this is where to find it.
 * [CRAN: R Manual](https://cran.r-project.org/doc/manuals/R-intro.html): This is a massive manual for **R** that will cover most of what you need to know.
+* [The Art of Programming in R by Matloff](https://www.amazon.com/Art-Programming-Statistical-Software-Design/dp/1593273843/?tag=flowingdata): This is a good guide for learning how to program.
+* [Exploratory Data Analysis in R by Pearson](https://www.crcpress.com/Exploratory-Data-Analysis-Using-R/Pearson/p/book/9781138480605): This is a good book aimed towards new R users that introduces how to use R to conduct exploratory data analysis.
